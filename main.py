@@ -140,4 +140,4 @@ async def sound(ctx, url : str):
 #    if message.content.startswith("<:moairev:875357014350512168"):
 #        await message.channel.send("<:moai:875355368623046667>")
 
-client.run('ODgwODE4MTMxNDE1NzI4MjU4.YSjzzw.7Yu4JXSPVqkYP1a0gvQ8buujHLE')
+client.run('///')
